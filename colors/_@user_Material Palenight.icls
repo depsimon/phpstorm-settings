@@ -4,7 +4,7 @@
     <property name="created">2020-01-26T15:50:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-26T17:00:38</property>
+    <property name="modified">2020-01-26T18:19:44</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <console-font>
@@ -1003,8 +1003,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+        <option name="BACKGROUND" value="303443" />
       </value>
     </option>
     <option name="IGNORE.BRACKET">
