@@ -10,8 +10,12 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="DatabaseView.Refresh" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
@@ -39,9 +43,6 @@
   <action id="Run" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
-  </action>
-  <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
