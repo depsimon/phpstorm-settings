@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ChangesView.Move" />
+  <action id="CheckinProject" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -49,6 +50,9 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
