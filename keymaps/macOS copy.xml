@@ -6,14 +6,29 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.Refresh" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
   <action id="GotoTest" />
   <action id="ParameterInfo" />
+  <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
@@ -21,10 +36,23 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Vcs.UpdateProject" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
