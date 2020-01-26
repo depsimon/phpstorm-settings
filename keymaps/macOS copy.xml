@@ -28,6 +28,9 @@
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="GotoTest" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
+  </action>
   <action id="ParameterInfo" />
   <action id="RecentFiles" />
   <action id="Refresh" />
@@ -50,9 +53,6 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
-  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
