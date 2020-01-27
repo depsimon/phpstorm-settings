@@ -22,6 +22,10 @@
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -39,11 +43,14 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
   </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
   <action id="ParameterInfo" />
   <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="ResizeToolWindowDown" />
   <action id="Run" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
