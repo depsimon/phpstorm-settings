@@ -5,6 +5,7 @@
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isDecoratedFolders" value="false" />
     <option name="isMaterialDesign" value="false" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
@@ -14,7 +15,7 @@
     <option name="themedScrollbars" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="indicatorStyle" value="Dot" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="00b6bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-1f1a7b59:16fe254d1eb:-8000" />
