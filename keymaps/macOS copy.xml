@@ -7,6 +7,10 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta colon" />
+    <keyboard-shortcut first-keystroke="meta colon" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
