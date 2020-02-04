@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping ext="css" type="SCSS" />
+      <mapping ext="neon" type="YAML" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping pattern="**/scss/*.css" approved="true" type="SCSS" />
     </extensionMap>
