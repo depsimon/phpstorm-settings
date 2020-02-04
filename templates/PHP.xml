@@ -1,0 +1,5 @@
+<templateSet group="PHP">
+  <template name="test" value="public function it_$NAME$()&#10;{&#10;&#10;}" description="Test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
