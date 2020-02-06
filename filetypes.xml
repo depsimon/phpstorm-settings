@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="css" approved="true" type="CSS" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="css" type="SCSS" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping ext="css" approved="true" type="CSS" />
